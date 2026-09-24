@@ -8,7 +8,7 @@
 
 [![Web](https://img.shields.io/badge/hub.numexai.com.tr-00C9A7?style=for-the-badge)](https://hub.numexai.com.tr)
 [![Topluluk](https://img.shields.io/badge/Topluluk_Vitrini-YENİ-0A1628?style=for-the-badge)](https://hub.numexai.com.tr/topluluk)
-[![Forge](https://img.shields.io/badge/Git-Numex_Forge-0A1628?style=for-the-badge)](https://github.com/mobilcep/numex-forge)
+[![Forge](https://img.shields.io/badge/Git-Numex_Forge-0A1628?style=for-the-badge)](https://github.com/numexai/numex-forge)
 
 </div>
 
@@ -25,7 +25,7 @@
 
 | Özellik | Açıklama |
 |---|---|
-| 📦 **Git depo yönetimi** | Depo oluştur, dosyaları düzenle, commit geçmişini gör. Depolar [Numex Forge](https://github.com/mobilcep/numex-forge) üzerinde — gerçek Git. |
+| 📦 **Git depo yönetimi** | Depo oluştur, dosyaları düzenle, commit geçmişini gör. Depolar [Numex Forge](https://github.com/numexai/numex-forge) üzerinde — gerçek Git. |
 | 🤖 **AI destekli düzenleme** *(beta)* | Sohbete *"README'yi güncelle"* yaz; AI kod bloğu önersin, onayla, Forge'a commit'lensin. |
 | 💬 **Depo bağlamlı sohbet** *(beta)* | AI deponun dosyalarını bilir: *"index.js'ye fonksiyon ekle"* → dosyayı okur, değişikliği önerir. |
 | ⚡ **Anlık uygulama** *(beta)* | Öneriyi gör, **Uygula** de → anında commit. SHA'sını gör, gerekirse geri al. |
@@ -66,8 +66,8 @@ flowchart LR
 
 <div align="center">
 
-**Numex Ailesi** · [Numex AI](https://numexai.com.tr) · [Codex](https://github.com/mobilcep/numex-codex) · [Okul](https://github.com/mobilcep/numex-okul) · [Market](https://market.numexai.com.tr) · [Numexpedia](https://github.com/mobilcep/numex-pedia) · [Hub](https://github.com/mobilcep/numex-hub) · [Forge](https://github.com/mobilcep/numex-forge) · [API](https://github.com/mobilcep/numex-api) · [SDK](https://github.com/mobilcep/numex-sdk) · [Pusulam](https://github.com/mobilcep/pusulamx) · [PC Doktoru](https://github.com/mobilcep/pcdoktoru)
+**Numex Ailesi** · [Numex AI](https://numexai.com.tr) · [Codex](https://github.com/numexai/numex-codex) · [Okul](https://github.com/numexai/numex-okul) · [Market](https://market.numexai.com.tr) · [Numexpedia](https://github.com/numexai/numex-pedia) · [Hub](https://github.com/numexai/numex-hub) · [Forge](https://github.com/numexai/numex-forge) · [API](https://github.com/numexai/numex-api) · [SDK](https://github.com/numexai/numex-sdk) · [Pusulam](https://github.com/mobilcep/pusulamx) · [PC Doktoru](https://github.com/mobilcep/pcdoktoru)
 
-*İnsanı önce koyan Türk yapay zekâsı* 🇹🇷 · [Tüm ekosistem →](https://github.com/mobilcep/numex_nedir)
+*İnsanı önce koyan Türk yapay zekâsı* 🇹🇷 · [Tüm ekosistem →](https://github.com/numexai/numex_nedir)
 
 </div>
