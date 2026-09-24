@@ -10,6 +10,8 @@
 [![Topluluk](https://img.shields.io/badge/Topluluk_Vitrini-YENİ-0A1628?style=for-the-badge)](https://hub.numexai.com.tr/topluluk)
 [![Forge](https://img.shields.io/badge/Git-Numex_Forge-0A1628?style=for-the-badge)](https://github.com/numexai/numex-forge)
 
+🇹🇷 **Türkçe** · [🇬🇧 English](README.en.md)
+
 </div>
 
 ---
@@ -51,6 +53,17 @@
 2. **Hub'ı aç** — [hub.numexai.com.tr](https://hub.numexai.com.tr); giriş yapmış halde gelirsin.
 3. **AI'a değişikliği söyle** — *"README'yi güncelle"*, *"yeni fonksiyon ekle"*.
 4. **Uygula → Forge'a commit** — geçmişte görünür, istediğinde geri alınır.
+
+## 📚 Belgeler
+
+| | |
+|---|---|
+| 🚀 [Hub'a başlarken](docs/baslangic.md) | Giriş, depo oluşturma, AI ile düzenleme, Uygula → commit |
+| 🌍 [Topluluk Vitrini](docs/topluluk.md) | Trend depolar, çatallama, arama, Canlı Akış |
+| 🏗️ [Hub ve Forge](docs/hub-ve-forge.md) | Depolar nerede durur, bilgisayarına nasıl klonlanır |
+| ❓ [SSS](docs/sss.md) | Sık sorulan sorular |
+
+🐞 Hata mı buldun, fikrin mi var? → [Issue aç](https://github.com/numexai/numex-hub/issues/new/choose)
 
 ## Ekosistemdeki yeri
 
