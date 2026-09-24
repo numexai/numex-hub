@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 📦 Numex Hub'ı aç
+    url: https://hub.numexai.com.tr
+    about: Tek Numex hesabıyla giriş yap.
+  - name: 🏗️ Numex Forge (Git sunucusu)
+    url: https://github.com/numexai/numex-forge
+    about: Depoların durduğu Git sunucusu.
+  - name: 🔒 Güvenlik bildirimi
+    url: mailto:destek@numexai.com.tr
+    about: Güvenlik açıklarını e-postayla bildir.
